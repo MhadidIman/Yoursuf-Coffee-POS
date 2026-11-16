@@ -129,7 +129,7 @@
 
             <div class="pt-2 border-t border-cream-dark text-center">
                 <p class="text-[11px] text-espresso/60">
-                    &copy; {{ date('Y') }} <strong>Yoursuf Coffee</strong> — Home Coffee &amp; Campus Delivery
+                    &copy; {{ date('Y') }} <strong>Yoursuf Coffee</strong> — Home Coffee &amp; Campus Yogya Delivery
                 </p>
             </div>
         </form>
